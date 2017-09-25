@@ -1,0 +1,28 @@
+@media only screen and (max-width: 980px){
+	h1{
+		font-size: 28px;
+	}
+.myName h1{
+	font-size: 18px;
+}
+#portfolioPic{
+	width:100%;
+	margin:5px;
+}
+.content{
+	width:40%;
+}
+.iconList li{
+	width:64px;
+	float:left;
+}
+.connectBox{
+	width:35%;
+}
+#galleryBox{
+	width:100%;
+	clear:both;
+	margin:6%;
+}
+
+}
